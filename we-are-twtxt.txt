@@ -3,7 +3,6 @@ adiabetic https://www.frogorbits.com/twtxt.txt
 akraut https://akraut.keybase.pub/twtxt.txt
 alip https://dev.exherbo.org/~alip/twtxt.txt
 autoalk http://autoalk.tk/twtxt/autoalk.txt
-benaiah https://benaiah.me/twtxt.txt
 bhearsum http://hearsum.ca/~bhearsum/twtxt.txt
 boxofbats https://www.boxofbats.com/t/
 buckket https://buckket.org/twtxt.txt
