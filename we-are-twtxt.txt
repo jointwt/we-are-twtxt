@@ -44,3 +44,4 @@ tx https://0x1a4.1337.cx/twtxt.txt
 umonkey http://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 webi https://twtxt.opstack.info/twtxt.txt
+leveck https://leveck.us/leveck.txt
