@@ -42,3 +42,4 @@ tx https://shroom.party/twtxt.txt
 umonkey https://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
+FeGFFB https://feg-ffb.de/twtxt.txt
