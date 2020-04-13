@@ -10,6 +10,7 @@ clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
 dave https://davebucklin.com/twtxt.txt
 deepend https://yourtilde.com/~deepend/twtxt.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
+epifanio https://tilde.pt/~epifanio/twtxt.txt
 esc http://escowles.github.io/tw.txt
 fegffb https://feg-ffb.de/twtxt.txt
 freemor https://freemor.homelinux.net/~freemor/twtxt.txt
