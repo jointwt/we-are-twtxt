@@ -28,7 +28,7 @@ lucidiot https://tilde.town/~lucidiot/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
 mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
-mk https://mk.sdf.org/twtxt.txt
+mk http://mk.sdf.org/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
