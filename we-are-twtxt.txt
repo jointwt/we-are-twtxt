@@ -47,3 +47,4 @@ tx https://shroom.party/twtxt.txt
 vain https://www.uninformativ.de/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
 xandkar https://xandkar.net/twtxt.txt
+niplav https://niplav.github.io/twtxt.txt
