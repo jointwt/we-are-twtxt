@@ -18,6 +18,7 @@ frogorbits.com https://www.frogorbits.com/twtxt.txt
 fundor333 https://fundor333.com/twtxt.txt
 gbmor https://gbmor.dev/twtxt.txt
 gil https://twtxt.herokuapp.com/
+gugod https://gugod.org/twtxt.txt
 jb55 https://jb55.com/twtxt.txt
 jcolag https://john.colagioia.net/twtxt.txt
 johanbove https://johanbove.info/twtxt.txt
