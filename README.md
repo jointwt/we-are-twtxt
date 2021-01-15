@@ -16,3 +16,19 @@ me know if you want to be added.
   - `we-are-twtxt.txt` list of active twtxt users with working links
   - `we-were-twtxt.txt` users with links that haven't been working for awhile
   - `we-are-bots.txt` list of bots
+
+## Other lists
+
+@prologic runs the [rss2twtxt](https://feeds.twtxt.net/) service that lets
+you read RSS/Atom feeds in you twtxt client. The service exposes a list over
+currently known feeds at
+
+    https://feeds.twtxt.net/we-are-feeds.txt
+
+You can download the file and add interesting feeds manually, or you can add
+the whole shebang with
+
+```sh
+    $ curl -s https://feeds.twtxt.net/we-are-feeds.txt |\
+          xargs -n2 twtxt follow
+```

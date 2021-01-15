@@ -1,45 +1,6 @@
 # We are twtxt bots
 # A curated list of accounts with automated postings.
 
-# Our two meta bots, “We Are Twtxt” and “We Are Twtxt Bots”:
-we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
-we_are_bots	https://enotty.dk/we-are-bots.txt
-
-# Beyond the Known — 365 Days of Exploration
-# Deepities from Takuin Minamoto's ebook of the same name.
-beyond		https://enotty.dk/beyond.txt
-
-# Borgerforslag (in Danish)
-# Newest proposals from https://www.borgerforslag.dk/
-borgerforslag	https://enotty.dk/borgerforslag.txt
-
-# Ddate tweets the current date according to Principia Discordia.
-# Please see https://en.wikipedia.org/wiki/Discordian_calendar for details.
-ddate		https://enotty.dk/ddate.txt
-
-# Current weather in Copenhagen Airport (ICAO: EKCH)
-ekch		https://enotty.dk/ekch.txt
-# Current weather in Bornholms Lufthavn (ICAO: EKRN)
-ekrn		https://enotty.dk/ekrn.txt
-
-# Phases of the Moon, weekly'ish
-moon		https://enotty.dk/moon.txt
-
-# Soltempore tweets a greeting to most capitals (and some cities that
-# are not) in the world as the sun sweeps over the land. This is a
-# very noisy feed.
-soltempore	https://enotty.dk/soltempore.txt
-# Caudasol contains the 3 latest tweets from soltempore.
-caudasol	https://enotty.dk/caudasol.txt
-
-# Tiktok tweets a heartbeat every full hour. Useful if you want to be
-# sure that your timeline is moving — of if you just want a marker.
-tiktok		https://enotty.dk/tiktok.txt
-
-# Wanna brush up your Toki Pona vocabulary? Tokipona tweets a word
-# a day. A new course starts every 124 days. ;)
-tokipona	https://enotty.dk/tokipona.txt
-
 # 8ball is a magic 8-ball that will answer any question that is directed only
 # to it and ends with an exclamation point. It checks we-are-twtxt every ten
 # minutes.
@@ -49,7 +10,6 @@ tokipona	https://enotty.dk/tokipona.txt
 # character limit and declares winners and losers.
 bullseye	https://domgoergen.com/twtxt/bullseye.txt
 
-# ShowHN tweets projects seen on https://news.ycombinator.com/shownew
-showhn		https://enotty.dk/showhn.txt
-
+# tiktok reports the current UTC time every half hour
+tiktok	https://feeds.twtxt.net/tiktok/twtxt.txt
 # EOF
