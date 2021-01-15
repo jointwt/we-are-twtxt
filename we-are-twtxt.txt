@@ -13,6 +13,7 @@ frogorbits.com https://www.frogorbits.com/twtxt.txt
 fundor333 https://fundor333.com/twtxt.txt
 gbmor https://gbmor.dev/twtxt.txt
 gil https://tilde.pt/~gil/twtxt.txt
+gugod https://gugod.org/twtxt.txt
 hecanjog https://hecanjog.com/twtxt.txt
 hjacobs https://hjacobs.codeberg.page/twtxt.txt
 hjertnes https://hjertnes.social/twtxt.txt
