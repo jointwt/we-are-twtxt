@@ -28,7 +28,6 @@ lahvak http://lahvak.github.io/twtxt/twtxt.txt
 leo https://www.gkbrk.com/twtxt.txt
 lucidiot https://tilde.town/~lucidiot/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
-mdosch https://mdosch.de/twtxt.txt
 melyanna https://tilde.club/~melyanna/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 nristen https://karl.theharrisclan.net/twtxt.txt
