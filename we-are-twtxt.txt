@@ -29,6 +29,7 @@ leo https://www.gkbrk.com/twtxt.txt
 lucidiot https://tilde.town/~lucidiot/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
 melyanna https://tilde.club/~melyanna/twtxt.txt
+movq https://www.uninformativ.de/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 nristen https://karl.theharrisclan.net/twtxt.txt
 pbatch https://pbat.ch/twtxt.txt
@@ -45,7 +46,6 @@ tux0r https://twtxt.rosaelefanten.org/
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
 tx https://shroom.party/twtxt.txt
-vain https://www.uninformativ.de/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
 xandkar https://xandkar.net/twtxt.txt
 niplav https://niplav.github.io/twtxt.txt
