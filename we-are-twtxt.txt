@@ -1,5 +1,6 @@
 71m https://timmorgan.org/twtxt.txt
 alip https://dev.exherbo.org/~alip/twtxt.txt
+anth http://a.9srv.net/tw.txt
 benaiah https://benaiah.me/twtxt.txt
 buckket https://buckket.org/twtxt.txt
 c-keen http://pestilenz.org/~ckeen/twtxt.txt
