@@ -50,3 +50,4 @@ tx https://shroom.party/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
 xandkar https://xandkar.net/twtxt.txt
 niplav https://niplav.github.io/twtxt.txt
+gr0k https://www.gr0k.net/twtxt.txt
