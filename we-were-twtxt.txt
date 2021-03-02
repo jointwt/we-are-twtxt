@@ -5,4 +5,3 @@ mushmouth https://mushmouth.ca/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
 skingrapher https://skingrapher.com/t/tw.txt
 umonkey https://land.umonkey.net/twtxt.txt
-gr0k https://www.gr0k.net/twtxt.txt
