@@ -31,6 +31,7 @@ lucidiot https://tilde.town/~lucidiot/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
 melyanna https://tilde.club/~melyanna/twtxt.txt
 movq https://www.uninformativ.de/twtxt.txt
+mr_woggle http://tilde.town/~mr_woggle/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 nristen https://karl.theharrisclan.net/twtxt.txt
 pbatch https://pbat.ch/twtxt.txt
