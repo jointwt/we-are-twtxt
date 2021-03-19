@@ -28,6 +28,7 @@ kt84 https://twtxt.net/user/kt84/twtxt.txt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
 leo https://www.gkbrk.com/twtxt.txt
 lucidiot https://tilde.town/~lucidiot/twtxt.txt
+lyxal https://twtxt.net/user/lyxal/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
 melyanna https://tilde.club/~melyanna/twtxt.txt
 movq https://www.uninformativ.de/twtxt.txt
